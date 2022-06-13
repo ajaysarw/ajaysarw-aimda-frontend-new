@@ -20,6 +20,6 @@ export const FormConstants = {
 }
 
 export const endPoints = {
-        userRegistrationProd: 'http://54.237.130.252:4000/users',
+        userRegistrationProd: 'http://50.16.39.96:4000/users',
         userRegistrationDev: 'http://localhost:4000/users'
 }
